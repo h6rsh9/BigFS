@@ -1,0 +1,16 @@
+client
+ns
+ds
+
+fhm.root/
+storage_*/
+
+*.bin
+*_copy*
+*_sf.txt
+
+*.o
+*.out
+core
+core.*
+
